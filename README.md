@@ -3,7 +3,8 @@ Pong-Rhythm arcade game made in 68k assembly.
 
 The objective of the game is to prevent the eevee ball from falling below the screen. However there is a catch - if the color of the paddle does not match the color of the eevee, you lose!
 
-CONTROLS 
+CONTROLS
+
 A/D to move and Space Bar to change the color of the paddle (the colors are randomly generated, however the eevees change colors in a fixed order)
 
 INSTALLATION STEPS
